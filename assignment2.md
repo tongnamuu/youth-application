@@ -52,18 +52,18 @@
   * 사용내역 관리
   * 특징
     * 주피터 노트북, ssh 접근 가능
-  * ai pub ops - AI 운영
-    * 리소스 모니터링(포트, 장애 여부 등)
-    * https://www.youtube.com/watch?v=VHUdypwCK90
-  * RA:X - AI 인프라 구축을 위한 컨설팅
-    * [AI For Infrastructure]
-      * AI 인프라 운영을 위한 LLM 서비스 개발 
-      * 효율적인 워크로드 스케줄링 알고리즘 개발 
-      * AI 서비스의 SLO(Service Level Objective) 달성을 위한 인프라 구성 추천 모델 개발
-    * [Infrastructure for AI]
-      * 자사 Kubernetes 기반 GPUaaS 플랫폼의 MLOps 기능 기획 및 구축 
-      * GPU 효율성을 높이기 위한 시스템 소프트웨어 개발 
-      * AI 워크로드의 성능 모니터링 및 프로파일링 서비스 개발
+* ai pub ops - AI 운영
+  * 리소스 모니터링(포트, 장애 여부 등)
+  * https://www.youtube.com/watch?v=VHUdypwCK90
+* RA:X - AI 인프라 구축을 위한 컨설팅
+  * [AI For Infrastructure]
+    * AI 인프라 운영을 위한 LLM 서비스 개발 
+    * 효율적인 워크로드 스케줄링 알고리즘 개발 
+    * AI 서비스의 SLO(Service Level Objective) 달성을 위한 인프라 구성 추천 모델 개발
+  * [Infrastructure for AI]
+    * 자사 Kubernetes 기반 GPUaaS 플랫폼의 MLOps 기능 기획 및 구축 
+    * GPU 효율성을 높이기 위한 시스템 소프트웨어 개발 
+    * AI 워크로드의 성능 모니터링 및 프로파일링 서비스 개발
   * 프로메테우스, 그라파나를 이용한 메트릭 대시보드 제공, 로그/이벤트 알람, 보고서 기능 등
 * 전반적으로 쿠버네티스 기반
 
